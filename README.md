@@ -42,4 +42,4 @@ It is noticeable that when displaying motion including drag, the line of traject
 When the '>' button is clicked on screen then the next information card in the cycle is displayed as shown above. The cycle is as in the contents page, once card 10 is reached then it will go back to 1 and vice versa. Each card is labelled in its top right corner.
 ## Project Details
 
-This project taught me a lot about creating a Python GUI as well as implementing mathematics into a program. This program fulfilled its purpose as a usefeul tool to help teach projectile motion to physics students.
+This project taught me a lot about creating a Python GUI as well as implementing mathematics into a program. This program fulfilled its purpose as a usefeul tool to help teach projectile motion to A-Level / Degree level physics students.
