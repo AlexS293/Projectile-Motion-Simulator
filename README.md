@@ -28,8 +28,7 @@ Upon clicking the 'Shoot' button the following is displayed:
 
 The program is able to accurately calculate the motion and display the mathematical results of the maximum height, distance travelled and time with text boxes as well as visually display a graph of its trajectory on a moveable window that also allows the user to save the image or zoom in on a particular area.
 
-
-![Drop-down](https://github.com/user-attachments/assets/9cb75e11-bd87-4e31-809c-ff49e95b5c67)
+![Drop-down](https://github.com/user-attachments/assets/091240ae-81bf-4412-a124-11a335577abe)
 
 When the drop-down menu is clicked the objects listed can be chosen each with their own individual ranges for mass and radius. The custom option in particular changes the object variable inputs to all become text input boxes.
 
