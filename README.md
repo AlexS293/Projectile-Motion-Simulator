@@ -3,7 +3,8 @@ This is a GUI created in Python for accurately calculating projectile motion inc
 
 The purpose of this project was to aid in the teaching and understanding of projectile motion to A-Level or Degree level students, as such there are also different information cards with insightful information regarding the topic.
 ## Prerequisites
-Must use Python version 3.9 with the following modules installed: pygame, pygame.display, pygame.locals, pygame_widgets, matplotlib and tkinter
+Must use Python version 3.9 with the following modules installed: pygame, pygame.display, pygame.locals, pygame_widgets, matplotlib and tkinter.
+All listed images must also be downloaded and be in the same file as the main code.
 ## Main Menu
 The title screen that is displayed when launched:
 
