@@ -35,7 +35,7 @@ When the drop-down menu is clicked the objects listed can be chosen each with th
 Upon changing the object to 'Custom', changing all motion and object inputs and clicking the 'Shoot' button the following is displayed:
 ![TestImage2](https://github.com/user-attachments/assets/a2297c90-0d89-49ec-b60e-eabc18aef174)
 
-It is noticeable that when displaying motion including drag, the line of trajectory becomes red rather than blue. The parabola also becomes asymmetrical as expected when including drag. The mathematical results for heigh, distance and time are accurate as compared to similar programs.
+It is noticeable that when displaying motion including drag, the line of trajectory becomes red rather than blue. The parabola also becomes asymmetrical as expected when including drag. The mathematical results for height, distance and time are accurate as compared to similar programs.
 
 ![TestImage3](https://github.com/user-attachments/assets/24d08a05-08ca-4555-9836-098af9b6c95d)
 
